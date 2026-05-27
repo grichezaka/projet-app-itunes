@@ -36,15 +36,11 @@ Pour lancer l'application avec Expo :
 
 ```bash
 npm start
-```
 
-Pour l'ouvrir sur iPhone, il faut scanner le QR code avec l'application Expo Go.
-
-Si la connexion locale ne fonctionne pas, vous pouvez lancer Expo en mode tunnel :
-
-```bash
 npx expo start --tunnel
 ```
+
+la connexion locale ne fonctionnait pas correctement sur mon réseau. J'ai donc utilisé le mode tunnel d'Expo pour ouvrir l'application sur mon téléphone avec Expo Go.
 
 ## Organisation du code
 
